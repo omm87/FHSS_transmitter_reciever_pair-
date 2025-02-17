@@ -1,1 +1,2 @@
-# FHSS_transmitter_reciever_pair-
+# FHSS_transmitter_reciever_pair
+Frequency-Hopping Spread Spectrum (FHSS) is a secure and interference-resistant communication technique that rapidly switches carrier frequencies according to a predefined hopping sequence. This project focuses on designing and implementing an FHSS transmitter-receiver pair using MATLAB, with a Graphical User Interface (GUI) to facilitate real-time interaction and visualization.
